@@ -7,4 +7,6 @@
 <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white" alt="Heroku logo" title="Heroku" height="25" />
 <img src="https://img.shields.io/badge/TablePlus-FF9601?logo=tableplus&logoColor=white" alt="TablePlus logo" title="TablePlus" height="25" />
 <img src="https://img.shields.io/badge/Gem: OmniAuth-36474F?logo=omniauth&logoColor=white" alt="OmniAuth logo" title="OmniAuth" height="25" />
+<img src="https://img.shields.io/badge/Gem: Twitter-36474F?&logoColor=white" alt="Twitter logo" title="Twitter" height="25" />
+
 
